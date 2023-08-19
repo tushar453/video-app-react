@@ -58,7 +58,7 @@ margin: auto;
   height: 100%;
   width: 100%;
   position: relative;
-  animation: pulse 1s infinite ease-in;
+  /* animation: pulse 1s infinite ease-in; */
 }
 .right{
   width: 50%;
