@@ -159,7 +159,7 @@ font-family: 'Dancing Script', cursive;
 
   @media screen and  (max-width:500px) {
     .Lobby{
-        margin-top: 115px;
+        margin-top: 90px;
     }
   }
   .room-h1{
