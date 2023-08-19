@@ -4,7 +4,8 @@ import { useSocket } from "../context/SocketProvider";
 // import img from '../img/bird.png.png';
 import img from '../img/birds.png';
 import dog from '../img/png5.png';
-import { UilUser ,UilDialpadAlt } from '@iconscout/react-unicons'
+import {UilUser ,UilDialpadAlt} from '@iconscout/react-unicons';
+
 const LobbyScreen = () => {
   const [email, setEmail] = useState("");
   const [room, setRoom] = useState("");
